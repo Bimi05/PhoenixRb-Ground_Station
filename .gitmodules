@@ -1,0 +1,9 @@
+[submodule "lib/RadioHead"]
+	path = lib/RadioHead
+	url = https://github.com/PaulStoffregen/RadioHead
+[submodule "lib/rfid"]
+	path = lib/rfid
+	url = https://github.com/miguelbalboa/rfid
+[submodule "lib/SD"]
+	path = lib/SD
+	url = https://github.com/arduino-libraries/SD/
